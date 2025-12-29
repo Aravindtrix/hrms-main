@@ -1,0 +1,9 @@
+CREATE TABLE IF NOT EXISTS employee_exits (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  employee_id INT NOT NULL,
+  exit_reason TEXT NOT NULL,
+  exit_date DATE NOT NULL,
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+  updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  UNIQUE KEY uq_employee_exit (employee_id)
+);
