@@ -6,58 +6,58 @@ Node/Express backend, and a MySQL database.
 
 ## Step-by-step walkthrough
 
-Save the screenshots under `docs/` using the filenames shown below.
+Save the screenshots under `hrms-main/` using the filenames shown below.
 
 ### 1) Sign in and select a role
-![Sign in](docs/step-01-login.png)
+![Sign in](hrms-main/step-01-login.png)
 
 ### 2) View the main dashboard (tickets)
-![Dashboard tickets](docs/step-02-dashboard-tickets.png)
+![Dashboard tickets](hrms-main/step-02-dashboard-tickets.png)
 
 ### 3) Manage departments (Masters)
-![Departments](docs/step-03-departments.png)
+![Departments](hrms-main/step-03-departments.png)
 
 ### 4) Manage roles (Masters)
-![Roles](docs/step-04-roles.png)
+![Roles](hrms-main/step-04-roles.png)
 
 ### 5) Manage employees (Masters)
-![Employees](docs/step-05-employees.png)
+![Employees](hrms-main/step-05-employees.png)
 
 ### 6) Raise a requirement (Heads)
-![Raise requirement](docs/step-06-raise-requirement.png)
+![Raise requirement](hrms-main/step-06-raise-requirement.png)
 
 ### 7) Select role for requirement
-![Select role](docs/step-07-role-select.png)
+![Select role](hrms-main/step-07-role-select.png)
 
 ### 8) View my tickets (Heads)
-![My tickets](docs/step-08-my-tickets.png)
+![My tickets](hrms-main/step-08-my-tickets.png)
 
 ### 9) HR dashboard queue
-![HR dashboard](docs/step-09-hr-dashboard.png)
+![HR dashboard](hrms-main/step-09-hr-dashboard.png)
 
 ### 10) Candidate entry form (HR)
-![Candidate entry](docs/step-10-candidate-entry.png)
+![Candidate entry](hrms-main/step-10-candidate-entry.png)
 
 ### 11) Shortlisted candidates (Heads)
-![Shortlisted candidates](docs/step-11-shortlisted.png)
+![Shortlisted candidates](hrms-main/step-11-shortlisted.png)
 
 ### 12) Enter interview result
-![Interview result modal](docs/step-12-interview-result.png)
+![Interview result modal](hrms-main/step-12-interview-result.png)
 
 ### 13) Candidate list and offer actions (HR)
-![Candidate list](docs/step-13-candidate-list.png)
+![Candidate list](hrms-main/step-13-candidate-list.png)
 
 ### 14) Training management (HR)
-![Training](docs/step-14-training.png)
+![Training](hrms-main/step-14-training.png)
 
 ### 15) Performance scoring (Heads)
-![Heads performance](docs/step-15-heads-performance.png)
+![Heads performance](hrms-main/step-15-heads-performance.png)
 
 ### 16) Performance actions (HR)
-![HR performance](docs/step-16-hr-performance.png)
+![HR performance](hrms-main/step-16-hr-performance.png)
 
 ### 17) Overall performance history
-![Performance history](docs/step-17-performance-history.png)
+![Performance history](hrms-main/step-17-performance-history.png)
 
 ## Tech Stack
 
