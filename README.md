@@ -59,6 +59,9 @@ Save the screenshots under `hrms-main/` using the filenames shown below.
 ### 17) Overall performance history
 ![Performance history](hrms-main/step-17-performance-history.png)
 
+### 18) Exit Employees
+![Performance history](hrms-main/exit-page.png)
+
 ## Tech Stack
 
 - Frontend: React, TypeScript, Ant Design, Axios
